@@ -1,6 +1,6 @@
 **INVENTORY WEBSITE FARID GAMESHOP**
 
-**TEAM 5**
+**TEAM 5**  
 Helma Mumtaz Taridala - Project Manager  
 Mifta Rahma - System Analyst  
 Zaidan Nafis - UI/UX Designer  
