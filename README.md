@@ -1,5 +1,7 @@
 **INVENTORY WEBSITE FARID GAMESHOP**
 
+🔗 https://drive.google.com/file/d/1p38cQgg7GPSnSU7-8UfuCxQsInhCJN3s/view?usp=sharing
+
 **TEAM 5**  
 Helma Mumtaz Taridala - Project Manager  
 Mifta Rahma - System Analyst  
