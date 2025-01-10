@@ -16,4 +16,5 @@ Database: [MySQL]
 
 🔗 [Presentasi Project Charter Document](https://drive.google.com/file/d/1p38cQgg7GPSnSU7-8UfuCxQsInhCJN3s/view?usp=sharing)
 🔗 [Presentasi Software Design Document](https://drive.google.com/file/d/11lYdO1JImZiwEQ_sGD4Qft1MH4tKvrzq/view?usp=drive_link)
-Mulai dari 11 October 2024
+
+This Project starts from 11 October 2024
